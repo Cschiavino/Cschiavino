@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web scraper project using Node.js**
 
-- 🌱 I’m currently learning **React, Java, python, Node.js**
+<!-- 🌱 I’m currently learning **React, Java, python, Node.js** -->
 
 - 👨‍💻 All of my projects are available at [https://Cschiavino.com](https://Cschiavino.com)
 
